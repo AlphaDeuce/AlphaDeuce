@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Thomas Klehn (@AlphaDeuce)
 - 👀 I’m interested in continuing to learn and prepare for a future in software development.
 - 🌱 I recently completed my BS in Software Development (C#) through Western Governors University.
-		
-		- Also working my way through The Odin Project
 - 💞️ I’m looking to collaborate on anything to network and learn.
 - 📫 How to reach me on Twitter @Alpha_Deuce or Discord @ AlphaDeuce#9406
 
